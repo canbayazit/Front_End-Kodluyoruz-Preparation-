@@ -1,2 +1,2 @@
-# Front_End-Kodluyoruz-Preparation-
+# Front-End Kodluyoruz Preparation
 Kodluyoruz Front-End Bootcamp Hazırlık Ödevleri
